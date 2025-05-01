@@ -79,7 +79,6 @@ a:hover{
     95%{color: var(--lightdarkblue)}
     100%{color: var(--darkblue)}
 }
-/* Apply the animation to your text */
 .web {
     animation-name: colorcycle;
     animation-duration: 10s;
