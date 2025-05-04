@@ -292,7 +292,6 @@ footer .fa-linkedin:hover{
     animation-duration: 2s;
     animation-timing-function:cubic-bezier(0.500, 0.08, 0.75, 0.89);
     animation-iteration-count: infinite;
-    transform: scale(1.1);
     transition-duration: 800ms;
     margin: 0 auto;
 }
