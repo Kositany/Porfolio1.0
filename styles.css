@@ -420,3 +420,10 @@ footer .fa-linkedin:hover{
         order: 0;
     }
 }
+css-doodle.doodle {
+    position: fixed;
+    top: 0;
+    left: 0;
+    pointer-events: none;
+    opacity: .04;
+}
